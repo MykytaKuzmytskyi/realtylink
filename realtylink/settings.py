@@ -14,7 +14,7 @@ NEWSPIDER_MODULE = "realtylink.spiders"
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.3; Win64; x64)'
+USER_AGENT = "realtylink (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
